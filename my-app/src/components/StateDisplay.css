@@ -1,0 +1,9 @@
+.navBar{
+    display: inline-flexbox;
+    padding:40px;
+  }
+  .navBar > button{
+      margin:40px;
+  }
+
+

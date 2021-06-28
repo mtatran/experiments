@@ -1,0 +1,11 @@
+.issueCards{
+    width: 200px;
+    margin: 50px;
+    padding: 25px;
+    min-height: 300px;
+    display: flex;
+    display: inline-flex;
+    border: 3px;
+    font-weight: bold;
+    flex-direction: column;
+}
